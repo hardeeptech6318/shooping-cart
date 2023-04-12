@@ -1,0 +1,29 @@
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.img{
+  height: 200px;
+  width:200px ;
+ 
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+}
+
+.img2{
+  height: 50px;
+}
+
+Link{
+  text-decoration: none;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: #ffffff;
+}
